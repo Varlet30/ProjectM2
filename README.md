@@ -18,5 +18,4 @@ Clone the repository with git
 
     git clone https://github.com/Varlet30/ProjectM2.git
 
-## Step 3
 
