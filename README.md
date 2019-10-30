@@ -1,9 +1,15 @@
 # ProjectM2
 Education National 
 
-## Quelques mots
+## A few words
 This project affects pro baccalaureate students, its purpose is to help teachers validate students' skills and offer them adapted qcm.
 The many aids that will be offered will help the teacher to visualize the qualities and problems of students and classes.
+
+## Example situation
+
+It's back to school, the teacher connects and returns to his new class. A few weeks later he reconnects to add the first notes.
+Visualizing the statistical graph he sees that many students have missed important skills. He then uses the automatic creation of a qcm to give his students another chance.
+At the end of the term he arrives at the class council with statistical graphs of each student and each class to find personalized solutions.
 
 # Installation
 
