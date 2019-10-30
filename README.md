@@ -29,21 +29,29 @@ Create an environnement conda in 3.7 Python
 Install your interface
 Launch the command prompt (or the shell of your python interface)
 Use the following command:
-    $ pip install git
+```
+$ pip install git
+```
 Clone the repository with git in the repository (ex: w) :
-    $ cd w
-    $ git clone https://github.com/Varlet30/ProjectM2.git
+```
+$ cd w
+$ git clone https://github.com/Varlet30/ProjectM2.git
+```
 
 ## Step 3
 
 To update the project:
-    $ git pull
-    $ npm install
+```
+$ git pull
+$ npm install
+```
 
 # Some notions about git:
 
 To update your branch:
-    $ git pull
+```
+$ git pull
+```
 
 To see your changes:
 ```
@@ -51,5 +59,7 @@ $ git diff
 ```
 
 To send your changes:
-    $ git commit -am "message du commit"
-    $ git push
+```
+$ git commit -am "message du commit"
+$ git push
+```
