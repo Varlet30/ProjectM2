@@ -45,8 +45,10 @@ To update the project:
 To update your branch:
     $ git pull
 
-To see your changes
-    $ git diff
+To see your changes:
+```
+$ git diff
+```
 
 To send your changes:
     $ git commit -am "message du commit"
