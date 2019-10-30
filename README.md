@@ -1,6 +1,10 @@
 # ProjectM2
 Education National 
 
+## Quelques mots
+This project affects pro baccalaureate students, its purpose is to help teachers validate students' skills and offer them adapted qcm.
+The many aids that will be offered will help the teacher to visualize the qualities and problems of students and classes.
+
 # Installation
 
 Necessary applications:
@@ -10,12 +14,34 @@ Necessary applications:
 
 ## Step 1
 
+Install anaconda
+Launch anaconda
 Create an environnement conda in 3.7 Python
 
 ## Step 2
 
-Clone the repository with git
+Install your interface
+Launch the command prompt (or the shell of your python interface)
+Use the following command:
+    $ pip install git
+Clone the repository with git in the repository (ex: w) :
+    $ cd w
+    $ git clone https://github.com/Varlet30/ProjectM2.git
 
-    git clone https://github.com/Varlet30/ProjectM2.git
+## Step 3
 
+To update the project:
+    $ git pull
+    $ npm install
 
+# Some notions about git:
+
+To update your branch:
+    $ git pull
+
+To see your changes
+    $ git diff
+
+To send your changes:
+    $ git commit -am "message du commit"
+    $ git push
