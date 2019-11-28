@@ -27,4 +27,3 @@ In addition, everything must be completely secure (nothing in clear).
 - Risk analysis
 - Data protection and privacy
 - Certification
-- ...
