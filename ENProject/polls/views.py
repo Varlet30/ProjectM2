@@ -2,9 +2,15 @@ from django.http import HttpResponseRedirect
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse
 from django.views import generic
+from django.views.generic import TemplateView
 
 from .models import Choice, Question
 from django.utils import timezone
+
+
+class BaseView(generic.ListView):
+    model = Question
+    template_name = 'polls/base_site.html'
 
 
 class IndexView(generic.ListView):
